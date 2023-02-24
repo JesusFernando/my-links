@@ -14,17 +14,17 @@
       "icon": "github"
     },
     {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCI9trK7uvOBjJNd2k2wY60Q",
+      "icon": "youtube"
+    },
+    {
       "title": "Kaggle",
       "url": "https://www.kaggle.com/fernandomontalvo"
     },
     {
       "title": "LeetCode",
       "url": "https://leetcode.com/jesus_montalvo_olazabal/"    
-    },
-    {
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UCI9trK7uvOBjJNd2k2wY60Q",
-      "icon": "youtube"
     }
   ]
 }
